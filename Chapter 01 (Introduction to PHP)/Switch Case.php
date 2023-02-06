@@ -11,4 +11,4 @@ switch ($number){
             default: echo("Number is not divisible by 5 or 10");
 }
 
-echo("\n".abs(+44.2));
+echo("\n".abs(ceil(-44.6))); //Absolute value of any number is always positive.

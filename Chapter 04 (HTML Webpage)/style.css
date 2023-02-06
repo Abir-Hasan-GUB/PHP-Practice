@@ -1,0 +1,43 @@
+#basickForm h1{
+    font-size: 4rem;
+    font-weight: bold;
+}
+#basickForm{
+    padding: 2.5rem 0;
+}
+
+.outPutDiv{
+    padding: 2rem;
+    border: .1rem solid #ccc;
+    margin-top: 3rem;
+}
+
+.outPutDiv p{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.singleInput{
+    margin-top: 2rem;
+}
+.singleInput label{
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+.singleInput input{
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+
+input[type="checkbox"]{
+    height: 2rem;
+    width: 2rem;
+}
+
+.submitBtn{
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 1rem 2rem;
+    text-transform: uppercase;
+}

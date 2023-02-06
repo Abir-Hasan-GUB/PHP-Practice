@@ -6,4 +6,4 @@ function sum($oldValue, $newValue){
 }
 
 $sum = array_reduce($numbers, 'sum', 0);
-echo $sum;
+echo $sum; 
