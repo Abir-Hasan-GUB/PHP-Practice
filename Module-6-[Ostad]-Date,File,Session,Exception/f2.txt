@@ -1,0 +1,3 @@
+abir, hasan, 10
+mim, ali, 20
+amina, khatun, 15
